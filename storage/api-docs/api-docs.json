@@ -1,10 +1,10 @@
 {
     "openapi": "3.0.0",
     "info": {
-        "title": "Integration Swagger in Laravel with Passport Auth Documentation",
+        "title": "Laravel Blog API Documentation",
         "description": "Implementation of Swagger with in Laravel",
         "contact": {
-            "email": "admin@admin.com"
+            "email": "aadhargaur41@gmail.com"
         },
         "license": {
             "name": "Apache 2.0",
